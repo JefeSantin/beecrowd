@@ -1,0 +1,7 @@
+curu = int(input())
+boit = int(input())
+boto = int(input())
+mapi = int(input())
+lara = int(input())
+porcao = ((curu*300)+(boit*1500)+(boto*600)+(mapi*1000)+(lara*150)+225)
+print(porcao)
